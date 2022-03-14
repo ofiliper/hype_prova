@@ -31,7 +31,7 @@ Compila o aplicativo para produção através do comando.
 Ele agrupa corretamente o React no modo de produção e otimiza a compilação para o melhor desempenho.
 
 A compilação é minificada e os nomes dos arquivos incluem os hashes.
-Seu aplicativo está pronto para ser implantado!
 
+Veja o exemplo em: <a href="https://desafio-loja.herokuapp.com/">Projeto Acme Inc.</a>
 
 Feito com ♥ by Filipe Ricardo :wave: <a href="ofilipericardo@hotmail.com">Contato</a>

@@ -1,18 +1,32 @@
-# Getting Started with Create React App
+# Projeto Hype
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## 💻 Sobre o projeto
 
-## Available Scripts
+Esse projeto foi desenvolvido para o processo seletivo da Hype.
 
-In the project directory, you can run:
+## :rocket: Tecnologias
 
-### `npm start`
+Esse projeto foi desenvolvido com as seguintes tecnologias:
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+- [ReactJS](https://pt-br.reactjs.org/)
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## 🤔 Como Instalar
+
+Clone o reposítório com o comando abaixo:
+
+<code>git clone https://github.com/ofiliper/hype_prova</code>
+
+Entre na pasta
+<code>cd hype_prova</code>
+
+Instale as dependências
+<code>npm install</code>
+
+
+Rode o projeto com o comando
+<code>npm start</code>
+
+Feito com ♥ by Filipe Ricardo :wave: <a href="ofilipericardo@hotmail.com">Contato</a>
 
 ### `npm test`
 
